@@ -9,6 +9,15 @@ import SwiftUI
 
 struct BookList: View {
     var body: some View {
+        NavigationStack{
+            
+            
+            VStack{
+                
+                
+            }
+        }.navigationTitle("My Books")
+        
     
     }
 }
