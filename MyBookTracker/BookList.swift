@@ -7,12 +7,12 @@
 
 import SwiftUI
 
-struct ContentView: View {
+struct BookList: View {
     var body: some View {
     
     }
 }
 
 #Preview {
-    ContentView()
+    BookList()
 }
